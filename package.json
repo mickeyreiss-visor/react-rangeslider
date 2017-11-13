@@ -50,7 +50,8 @@
     "url": "github.com/whoisandy"
   },
   "engines": {
-    "node": ">=4"
+    "node": "^6.11.2",
+    "yarn": "^1.2.1"
   },
   "license": "MIT",
   "bugs": {
